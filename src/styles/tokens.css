@@ -1,0 +1,66 @@
+@theme {
+  --font-sans: Inter, "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
+
+  --color-canvas: #f7f5f0;
+  --color-paper: #fffdf8;
+  --color-surface-50: #fbfaf6;
+  --color-surface-100: #f0eee8;
+  --color-surface-200: #e6e1d8;
+  --color-line: #eae7df;
+
+  --color-ink-50: #f7f5f0;
+  --color-ink-100: #eeebe3;
+  --color-ink-200: #ded9cf;
+  --color-ink-300: #c2bbb0;
+  --color-ink-400: #90887d;
+  --color-ink-500: #666666;
+  --color-ink-600: #4f4a44;
+  --color-ink-700: #34302c;
+  --color-ink-800: #282521;
+  --color-ink-900: #1f1d1a;
+  --color-ink-950: #1a1a1a;
+
+  --color-brand-50: #edf4f1;
+  --color-brand-100: #dbe8e3;
+  --color-brand-200: #b7d0c7;
+  --color-brand-600: #174e45;
+  --color-brand-700: #123f38;
+  --color-brand-800: #0e322d;
+
+  --color-teal-50: #eef7f3;
+  --color-teal-100: #d9eee6;
+  --color-teal-200: #b7dbcf;
+  --color-teal-600: #2f7a67;
+  --color-teal-700: #245f51;
+
+  --color-cinnabar-50: #fbf1ef;
+  --color-cinnabar-100: #f4dedb;
+  --color-cinnabar-200: #e9bbb5;
+  --color-cinnabar-600: #8b2e24;
+  --color-cinnabar-700: #70241c;
+
+  --color-warning-50: #fff8e8;
+  --color-warning-100: #f4e5c3;
+  --color-warning-200: #e6cd91;
+  --color-warning-600: #a06416;
+  --color-warning-800: #704511;
+
+  --color-danger-50: #fff1f0;
+  --color-danger-200: #ffc9c4;
+  --color-danger-600: #c9362b;
+  --color-danger-700: #a72b23;
+
+  --color-success-50: #eefbf2;
+  --color-success-200: #bce7c8;
+  --color-success-600: #15803d;
+  --color-success-700: #116832;
+
+  --color-info-50: #eff6ff;
+  --color-info-200: #bfdbfe;
+  --color-info-600: #2563eb;
+  --color-info-700: #1d4ed8;
+
+  --shadow-soft: 0 10px 30px rgba(26, 26, 26, 0.06);
+  --ease-emphasized: cubic-bezier(0.22, 1, 0.36, 1);
+}

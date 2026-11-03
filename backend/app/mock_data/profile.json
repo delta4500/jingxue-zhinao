@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "profileId": "UP001",
+    "userId": "U001",
+    "profileSummary": "通信工程大一学生，3人团队，每周可投入12小时，具备C语言、STM32和基础网页制作能力，适合从中等难度AI竞赛工作台项目切入。",
+    "abilityScores": {
+      "programming": 58,
+      "hardware": 62,
+      "ai": 44,
+      "writing": 66,
+      "presentation": 48,
+      "projectManagement": 42
+    },
+    "advantages": ["目标方向明确", "具备硬件基础", "适合完成网页与Agent工作流MVP"],
+    "weaknesses": ["竞赛经验不足", "AI工程化能力需补强", "答辩表达经验偏弱"],
+    "recommendedRoles": ["项目负责人", "硬件验证负责人", "材料与计划书负责人"],
+    "recommendedDirections": ["AI+教育", "竞赛项目工作台", "计划书生成"],
+    "recommendedDifficulty": "medium",
+    "resourceAssessment": "预算和资源适合先完成软件闭环，硬件作为增强演示。",
+    "timeAssessment": "建议4-6周完成V1闭环。",
+    "riskLevel": "medium",
+    "riskNotes": ["控制功能范围", "生成内容保留人工确认", "计划书需要一致性检查"],
+    "nextSuggestion": "生成项目创意并选择一个主方案。",
+    "generatedAt": "2026-06-15T00:00:00Z"
+  }
+}

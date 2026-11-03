@@ -1,0 +1,11 @@
+{
+  "intent": "continue_workflow",
+  "route": "project_idea",
+  "reason": "画像已完成，下一步应生成或选择项目方案。",
+  "nextAction": {
+    "type": "generate_project_ideas",
+    "label": "生成项目创意",
+    "targetAgent": "project_idea",
+    "requiredData": ["profile"]
+  }
+}

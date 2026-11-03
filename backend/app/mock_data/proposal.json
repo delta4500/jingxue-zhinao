@@ -1,0 +1,35 @@
+{
+  "document": {
+    "documentId": "D001",
+    "projectId": "P001",
+    "documentType": "proposal",
+    "title": "竞学智脑 项目计划书",
+    "version": 1,
+    "chapters": [
+      {
+        "chapterId": "CH001",
+        "chapterNumber": "1",
+        "title": "项目摘要",
+        "content": "竞学智脑是面向大学生竞赛的证据增强型AI项目工作台，通过用户画像、项目创意、项目档案和计划书生成形成完整闭环。",
+        "sourceData": ["project.projectName", "project.coreFunctions", "profile.profileSummary"],
+        "status": "ai_draft"
+      },
+      {
+        "chapterId": "CH002",
+        "chapterNumber": "2",
+        "title": "项目背景",
+        "content": "大学生参赛过程中常见选题模糊、资料分散、材料难写和答辩准备不足等问题，需要一个专业工作流工具进行系统辅助。",
+        "sourceData": ["competition", "user.goals"],
+        "status": "ai_draft"
+      }
+    ],
+    "consistencyCheck": {
+      "projectNameConsistent": true,
+      "technicalRouteConsistent": true,
+      "innovationConsistent": true,
+      "budgetConsistent": true,
+      "timelineConsistent": true
+    },
+    "generatedAt": "2026-06-15T00:00:00Z"
+  }
+}
